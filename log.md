@@ -7,7 +7,7 @@
 **Thoughts:** I am learning CSS.  It took a little longer than expected but I did it. 
 
 **Link to work:** [Itty Bitty Client](https://github.com/ggrossvi/IttyBittyClient)
-[Book DAO](http://www.example.com](https://github.com/ggrossvi/BookDaoProject)
+[Book DAO](https://github.com/ggrossvi/BookDaoProject)
 
 **Tomorrow** Start making a card on React that has the book info! 
 
