@@ -11,3 +11,17 @@
 
 **Tomorrow** Start making a card on React that has the book info! 
 
+
+### Day 2: February 24, 2024
+
+**Today's Progress**: Revisiting Codepen.  Played around making some simple React components.  Looking forward to making it interactive.  
+
+**Thoughts:** It was fun. We are learning Bootstrap in school. I may try it out with Co 
+
+**Link to work:** [Book React in Codepen] (https://rb.gy/tf7c9p)
+
+**Tomorrow** Work on the cards some more! 
+
+
+
+
