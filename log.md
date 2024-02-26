@@ -22,6 +22,16 @@
 
 **Tomorrow** Work on the cards some more! 
 
+### Day 3: February 25, 2024
+
+**Today's Progress**: Created Typescript, Bootstrap, React Project.  Created React Booklist component with Bootstrap.  
+**Thoughts:** Bootstrap will be fun to explore. 
+
+**Link to work:** [React-App-Book] ([https://rb.gy/tf7c9p](https://github.com/ggrossvi/React-App-Book))
+
+**Tomorrow** Work on more React! 
+
+
 
 
 
