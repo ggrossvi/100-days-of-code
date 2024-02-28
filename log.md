@@ -32,7 +32,7 @@
 **Tomorrow** Work on more React! 
 
 
-### Day 4: February 26, 2024
+### Day 5: February 26, 2024
 
 
 **Today's Progress**: Used useState,when the user clicks on a book it highlights it blue.  
