@@ -32,7 +32,7 @@
 **Tomorrow** Work on more React! 
 
 
-### Day 5: February 26, 2024
+### Day 4: February 26, 2024
 
 
 **Today's Progress**: Used useState,when the user clicks on a book it highlights it blue.  
@@ -42,7 +42,7 @@
 
 **Tomorrow** Work on more React! 
 
-**Day 4: February 27, 2024**
+### Day 5: February 27, 2024
 **Today's Progress**: Learned how to create a radiant background, incorporated Bootstrap button, and learned how to make rounded corners.
 
 Link to work: [Cap-Client] (https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature)
