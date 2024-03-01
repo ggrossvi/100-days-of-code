@@ -47,7 +47,18 @@
 
 Link to work: [Cap-Client] (https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature)
 
-**Tomorrow** Work on more React! 
+**Tomorrow** Work on Learning!  
+
+### Day 6: February 28, 2024
+**Today's Progress**: Learned how to create a simple card in Swift.
+
+Link to work: [Learning Basics] ([https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature](https://github.com/ggrossvi/LearningBasics))
+
+**Tomorrow** Adding more to the card! 
+
+
+
+
 
 
 
