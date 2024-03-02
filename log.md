@@ -56,6 +56,14 @@ Link to work: [Learning Basics] ([https://github.com/ggrossvi/CapClient/tree/fea
 
 **Tomorrow** Adding more to the card! 
 
+### Day 7: February 29, 2024
+**Today's Progress**: Learned about Thymeleaf and Spring.
+
+Link to work: [Thymeleaf] ([[https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature](https://github.com/ggrossvi/spring.git)](https://github.com/ggrossvi/LearningBasics))
+
+**Tomorrow** Work on the Thymeleaf template some more! 
+
+
 
 
 
