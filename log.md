@@ -66,7 +66,7 @@ Link to work: [Thymeleaf] ([[https://github.com/ggrossvi/CapClient/tree/feature)
 ### Day 8: February 29, 2024
 **Today's Progress**: Learned about forms, CSS, and draggable HTML elements.
 
-Link to work: [book-log] (https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature](https://github.com/ggrossvi/spring.git)(https://github.com/ggrossvi/LearningBasics))
+Link to work: [book-log] (https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature](https://github.com/ggrossvi/spring.git)
 
 
 
