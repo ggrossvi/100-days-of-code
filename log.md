@@ -45,21 +45,21 @@
 ### Day 5: February 27, 2024
 **Today's Progress**: Learned how to create a radiant background, incorporated Bootstrap button, and learned how to make rounded corners.
 
-Link to work: [Cap-Client] (https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature)
+Link to work: [Cap-Client] (https://github.com/ggrossvi/CapClient/tree/feature)
 
 **Tomorrow** Work on Learning!  
 
 ### Day 6: February 28, 2024
 **Today's Progress**: Learned how to create a simple card in Swift.
 
-Link to work: [Learning Basics] ([https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature](https://github.com/ggrossvi/LearningBasics))
+Link to work: [Learning Basics] (https://github.com/ggrossvi/LearningBasics)
 
 **Tomorrow** Adding more to the card! 
 
 ### Day 7: February 29, 2024
 **Today's Progress**: Learned about Thymeleaf and Spring.
 
-Link to work: [Thymeleaf] ([[https://github.com/ggrossvi/CapClient/tree/feature)https://github.com/ggrossvi/CapClient/tree/feature](https://github.com/ggrossvi/spring.git)]
+Link to work: [Thymeleaf] (https://github.com/ggrossvi/spring.git)
 
 **Tomorrow** Work on the Thymeleaf template some more! 
 
