@@ -64,9 +64,9 @@ Link to work: [Thymeleaf] (https://github.com/ggrossvi/spring.git)
 **Tomorrow** Work on the Thymeleaf template some more! 
 
 ### Day 8: March 1, 2024
-**Today's Progress**: Learned about forms, CSS, and draggable HTML elements.
+**Today's Progress**: Learned about fetch and connecting to an API with JavaScript.
 
-Link to work: [book-log] (https://github.com/ggrossvi/book_log)
+Link to work: [api-demo] ([https://github.com/ggrossvi/book_log](https://github.com/ggrossvi/api-demo)https://github.com/ggrossvi/api-demo)
 
 
 
