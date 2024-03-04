@@ -64,9 +64,15 @@ Link to work: [Thymeleaf] (https://github.com/ggrossvi/spring.git)
 **Tomorrow** Work on the Thymeleaf template some more! 
 
 ### Day 8: March 1, 2024
+**Today's Progress**: working on forms and css.
+
+Link to work: [book-log] (https://github.com/ggrossvi/CapClient/tree/feature)
+
+
+### Day 9: March 2, 2024
 **Today's Progress**: Learned about fetch and connecting to an API with JavaScript.
 
-Link to work: [api-demo] ([https://github.com/ggrossvi/book_log](https://github.com/ggrossvi/api-demo)https://github.com/ggrossvi/api-demo)
+Link to work: [api-demo] (https://github.com/ggrossvi/api-demo)
 
 
 
