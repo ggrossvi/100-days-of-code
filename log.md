@@ -74,6 +74,10 @@ Link to work: [book-log] (https://github.com/ggrossvi/CapClient/tree/feature)
 
 Link to work: [api-demo] (https://github.com/ggrossvi/api-demo)
 
+### Day 10: March 3, 2024
+Today's Progress: Looked at JSON data from API and pulled values out to put in a table.
+
+Link to work: [cat-api] (https://github.com/ggrossvi/cat_api)
 
 
 
