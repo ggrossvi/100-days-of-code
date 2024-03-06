@@ -79,6 +79,12 @@ Today's Progress: Looked at JSON data from API and pulled values out to put in a
 
 Link to work: [cat-api] (https://github.com/ggrossvi/cat_api)
 
+### Day 11: March 4, 2024
+Today's Progress: Incorporated a Bootstrap carousel and navigation into my project.
+
+Link to work: [task-list] (https://github.com/ggrossvi/task-list/tree/feature)
+
+
 
 
 
