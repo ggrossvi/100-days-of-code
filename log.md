@@ -84,7 +84,7 @@ Today's Progress: Incorporated a Bootstrap carousel and navigation into my proje
 
 Link to work: [task-list] (https://github.com/ggrossvi/task-list/tree/feature)
 
-### Day 11: March 5, 2024
+### Day 12: March 5, 2024
 Today's Progress: Changed the background of the inputs in my form.
 
 Link to work: [Cap-Client] (https://github.com/ggrossvi/CapClient/tree/feature)
