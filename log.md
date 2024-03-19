@@ -89,6 +89,12 @@ Today's Progress: Changed the background of the inputs in my form.
 
 Link to work: [Cap-Client] (https://github.com/ggrossvi/CapClient/tree/feature)
 
+### Day 13: March 19, 2024
+Today's Progress: Fixed the CSS of my todo container.
+Thoughts: There is a lot of work that takes place behind the scenes in a form.  
+
+Link to work: [task-list]  (https://github.com/ggrossvi/task-list)
+
 
 
 
