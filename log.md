@@ -100,7 +100,7 @@ Today's Progress: Added containers and a select dropdown to my page.
 Thoughts: I'm finding that sometimes an hour doesn't cover what I want to implement.  
 Link to work: [task-list]  (https://github.com/ggrossvi/task-list)
 
-### Day 14: March 23, 2024
+### Day 15: March 23, 2024
 Today's Progress: Task is added to the priority container of my dropdown.
 Thoughts: I'm always surprised how there are always more bugs to fix and improvements to make.  
 Link to work: [task-list]  (https://github.com/ggrossvi/task-list)
