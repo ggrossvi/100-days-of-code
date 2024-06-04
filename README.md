@@ -3,7 +3,7 @@
 ## Contents
 
 - [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
+- [Log - click here to see my progress](log.md) - I am taking a break and working on AI 'til June!   
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
 
